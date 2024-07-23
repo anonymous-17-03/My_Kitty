@@ -15,8 +15,13 @@ Cerrar kitty.
 
 ## Requisitos
 
-- **Kitty**: Un emulador de terminal rápido y con muchas características.
-- **HackNerdFont**: Una fuente personalizada que incluye iconos Nerd Fonts. Puedes descargarla desde [Nerd Fonts](https://www.nerdfonts.com/).
+1. **Kitty**: Un emulador de terminal rápido y con muchas características, para instalar en distribuciones basadas en debían puedes usar el comando:
+
+```sh
+apt install kitty
+```
+
+2. **HackNerdFont**: Una fuente personalizada que incluye iconos Nerd Fonts. Puedes descargarla desde [Nerd Fonts](https://www.nerdfonts.com/).
 
 ## Archivos de Configuración
 
