@@ -64,7 +64,6 @@ Antes de realizar cambios, siempre es buena idea hacer una copia de seguridad de
 
 ```sh
 cp ~/.config/kitty/kitty.conf ~/.config/kitty/kitty.conf.bak
-cp ~/.config/kitty/color.ini ~/.config/kitty/color.ini.bak
 ```
 
 ### Copiar la Configuración
