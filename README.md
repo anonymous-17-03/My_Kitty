@@ -56,6 +56,7 @@ Clona este repositorio en tu máquina local:
 
 ```sh
 git clone https://github.com/anonymous-17-03/My_Kitty.git
+cd My_Kitty
 ```
 
 ### Hacer una Copia de Seguridad
@@ -67,11 +68,12 @@ cp ~/.config/kitty/kitty.conf ~/.config/kitty/kitty.conf.bak
 ```
 
 ### Copiar la Configuración
-Copia los archivos de configuración a la carpeta de configuración de Kitty:
+Copia los archivos `color.ini` y `kitty.conf` a la carpeta de configuración de Kitty:
+- Entra al directorio clonado, si ya estas en el directorio My_Kitty, usa los sigientes comandos:
 
 ```sh
-cp kitty-config/color.ini ~/.config/kitty/color.ini
-cp kitty-config/kitty.conf ~/.config/kitty/kitty.conf
+cp color.ini ~/.config/kitty/color.ini
+cp kitty.conf ~/.config/kitty/kitty.conf
 ```
 
 ## Nota
