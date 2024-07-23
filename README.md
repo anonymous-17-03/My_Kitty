@@ -15,7 +15,7 @@ Cerrar kitty.
 
 ## Requisitos
 
-1. **Kitty**: Un emulador de terminal rápido y con muchas características, para instalar en distribuciones basadas en debían puedes usar el comando:
+1. **Kitty**: Un emulador de terminal rápido y con muchas características, para instalar en distribuciones que usan `apt` como administrador de paquetes, pueden usar el comando:
 
 ```sh
 apt install kitty
