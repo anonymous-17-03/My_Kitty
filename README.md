@@ -2,7 +2,9 @@
 
 Esta es mi configuración personalizada para el emulador de terminal Kitty. Incluye una configuración de colores, mapeos de teclas, y otras personalizaciones para mejorar la experiencia de uso.
 
+
 ### Ejemplos:
+
 
 ![Imagen 1](./img/img1.png)
 Redimencionar y renombrar venatanas.
