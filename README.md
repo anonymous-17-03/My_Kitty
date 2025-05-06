@@ -85,5 +85,4 @@ cp kitty.conf ~/.config/kitty/kitty.conf
 
 ## Nota
 
-Ten en cuenta que yo uso **zsh** como shell principal, junto con la configuración de [Powerlevel10k](https://github.com/romkatv/powerlevel10k). Asegúrate de instalar y configurar zsh, para obtener la misma apariencia y funcionalidad en tu terminal o si lo desea puede usar  bash cambiando la ultima linea del `kitty.conf` que dice `shell zsh` a `shell bash`.
-
+Ten en cuenta que yo uso **zsh** como shell principal, junto con la configuración de [Powerlevel10k](https://github.com/romkatv/powerlevel10k). Asegúrate de instalar y configurar zsh, para obtener la misma apariencia y funcionalidad en tu terminal o si lo desea puede usar  bash cambiando la ultima linea del `kitty.conf` que dice `shell zsh` a `shell bash` (Pronto añadiremos mejoras).
